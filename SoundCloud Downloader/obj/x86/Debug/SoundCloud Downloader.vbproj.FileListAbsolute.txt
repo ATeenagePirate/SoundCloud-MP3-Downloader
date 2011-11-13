@@ -1,0 +1,24 @@
+C:\Users\Adam\AppData\Local\Temporary Projects\SoundCloud Downloader\bin\Debug\SoundCloud Downloader.exe
+C:\Users\Adam\AppData\Local\Temporary Projects\SoundCloud Downloader\bin\Debug\SoundCloud Downloader.pdb
+C:\Users\Adam\AppData\Local\Temporary Projects\SoundCloud Downloader\bin\Debug\SoundCloud Downloader.xml
+C:\Users\Adam\AppData\Local\Temporary Projects\SoundCloud Downloader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\AppData\Local\Temporary Projects\SoundCloud Downloader\obj\x86\Debug\SoundCloud_Downloader.form1.resources
+C:\Users\Adam\AppData\Local\Temporary Projects\SoundCloud Downloader\obj\x86\Debug\SoundCloud_Downloader.Resources.resources
+C:\Users\Adam\AppData\Local\Temporary Projects\SoundCloud Downloader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Adam\AppData\Local\Temporary Projects\SoundCloud Downloader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Adam\AppData\Local\Temporary Projects\SoundCloud Downloader\obj\x86\Debug\SoundCloud Downloader.exe
+C:\Users\Adam\AppData\Local\Temporary Projects\SoundCloud Downloader\obj\x86\Debug\SoundCloud Downloader.xml
+C:\Users\Adam\AppData\Local\Temporary Projects\SoundCloud Downloader\obj\x86\Debug\SoundCloud Downloader.pdb
+C:\Users\Adam\documents\visual studio 2010\Projects\SoundCloud Downloader\SoundCloud Downloader\obj\x86\Debug\SoundCloud Downloader.exe
+C:\Users\Adam\documents\visual studio 2010\Projects\SoundCloud Downloader\SoundCloud Downloader\obj\x86\Debug\SoundCloud Downloader.xml
+C:\Users\Adam\documents\visual studio 2010\Projects\SoundCloud Downloader\SoundCloud Downloader\obj\x86\Debug\SoundCloud Downloader.pdb
+C:\Users\Adam\documents\visual studio 2010\Projects\SoundCloud Downloader\SoundCloud Downloader\bin\Debug\SoundCloud Downloader.exe
+C:\Users\Adam\documents\visual studio 2010\Projects\SoundCloud Downloader\SoundCloud Downloader\bin\Debug\SoundCloud Downloader.pdb
+C:\Users\Adam\documents\visual studio 2010\Projects\SoundCloud Downloader\SoundCloud Downloader\bin\Debug\SoundCloud Downloader.xml
+C:\Users\Adam\documents\visual studio 2010\Projects\SoundCloud Downloader\SoundCloud Downloader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\documents\visual studio 2010\Projects\SoundCloud Downloader\SoundCloud Downloader\obj\x86\Debug\SoundCloud_Downloader.Form1.resources
+C:\Users\Adam\documents\visual studio 2010\Projects\SoundCloud Downloader\SoundCloud Downloader\obj\x86\Debug\SoundCloud_Downloader.Resources.resources
+C:\Users\Adam\documents\visual studio 2010\Projects\SoundCloud Downloader\SoundCloud Downloader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Adam\documents\visual studio 2010\Projects\SoundCloud Downloader\SoundCloud Downloader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Adam\documents\visual studio 2010\Projects\SoundCloud Downloader\SoundCloud Downloader\bin\Debug\SoundCloud Downloader.exe.config
+C:\Users\Adam\documents\visual studio 2010\Projects\SoundCloud Downloader\SoundCloud Downloader\obj\x86\Debug\SoundCloud_Downloader.Download.resources
